@@ -48,9 +48,11 @@ For your group project you will be reading movies from the Kafka stream. Try fin
 `kcat -b localhost:9092 -L`
 
 ## Additional resources
+- [Kafka Introduction Video 1](https://www.youtube.com/watch?v=PzPXRmVHMxI) (very helpful)
+- [Kafka Introduction Video 2](https://www.youtube.com/watch?v=JalUUBKdcA0)
 - [Apache Kafka](https://kafka.apache.org/)
 - [Kafka for Beginners](https://www.cloudkarafka.com/blog/2016-11-30-part1-kafka-for-beginners-what-is-apache-kafka.html)
 - [What is Apache Kafka? - TIBCO](https://www.tibco.com/reference-center/what-is-apache-kafka)
-- [Kafka Introduction Video 1](https://www.youtube.com/watch?v=PzPXRmVHMxI)
-- [Kafka Introduction Video 2](https://www.youtube.com/watch?v=JalUUBKdcA0)
+- [frequent bug list and solutions](./bug_list.md)
+
 
